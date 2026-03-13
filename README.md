@@ -1,114 +1,163 @@
 <div align="center">
 
-<!-- Typing Animation Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ishika+Kaur+%F0%9F%91%8B;Machine+Learning+Enthusiast+%F0%9F%A4%96;Data+Scientist+%7C+Data+Analyst+%F0%9F%93%8A;AI+Explorer+%7C+Python+Lover+%F0%9F%90%8D;Turning+Data+into+Decisions+%E2%9C%A8)](https://git.io/typing-svg)
+<!-- Animated Name Banner -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=4000&pause=1500&color=C9A84C&center=true&vCenter=true&width=800&height=80&lines=Ishika+Kaur)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=400&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+ML+Enthusiast+%7C+AI+Explorer;Turning+raw+data+into+refined+intelligence.;Python+%C2%B7+Machine+Learning+%C2%B7+Deep+Learning)](https://git.io/typing-svg)
+
+<br/>
+
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png)
 
 </div>
 
----
+<br/>
 
-<img align="right" alt="AI GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 🌌 About Me
+### &nbsp;&nbsp;`$ whoami`
 
 ```python
 class Ishika:
-    name       = "Ishika Kaur"
-    role       = ["Data Analyst", "ML Enthusiast", "AI Explorer"]
-    languages  = ["Python", "SQL", "C", "C++", "Java"]
-    focus      = ["Machine Learning", "Deep Learning", "Data Science"]
-    currently  = "Building ML projects & exploring AI"
-    goal       = "Turn data into powerful insights 🚀"
+
+    name        =  "Ishika Kaur"
+    based_in    =  "India 🇮🇳"
+    roles       =  ["Data Analyst", "ML Engineer", "AI Enthusiast"]
+    languages   =  ["Python", "SQL", "C", "C++", "Java"]
+    focus       =  ["Machine Learning", "Deep Learning", "NLP"]
+    tools       =  ["Pandas", "TensorFlow", "Scikit-learn", "Power BI"]
+    currently   =  "Building intelligent systems with data 🤖"
+    goal        =  "Refine data into decisions that matter ✦"
 ```
 
 <br clear="right"/>
 
----
-
-### 🛸 Tech Stack & Tools
-
 <div align="center">
 
-**Languages & Data**
-
-![Python](https://img.shields.io/badge/Python-0A0A2E?style=for-the-badge&logo=python&logoColor=00D9FF)
-![SQL](https://img.shields.io/badge/SQL-0A0A2E?style=for-the-badge&logo=mysql&logoColor=00D9FF)
-![C](https://img.shields.io/badge/C-0A0A2E?style=for-the-badge&logo=c&logoColor=00D9FF)
-![C++](https://img.shields.io/badge/C++-0A0A2E?style=for-the-badge&logo=cplusplus&logoColor=00D9FF)
-![Java](https://img.shields.io/badge/Java-0A0A2E?style=for-the-badge&logo=openjdk&logoColor=00D9FF)
-
-**Machine Learning & AI**
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0A0A2E?style=for-the-badge&logo=scikit-learn&logoColor=00D9FF)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0A2E?style=for-the-badge&logo=tensorflow&logoColor=00D9FF)
-![Keras](https://img.shields.io/badge/Keras-0A0A2E?style=for-the-badge&logo=keras&logoColor=00D9FF)
-![OpenCV](https://img.shields.io/badge/OpenCV-0A0A2E?style=for-the-badge&logo=opencv&logoColor=00D9FF)
-
-**Data Analysis & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-0A0A2E?style=for-the-badge&logo=pandas&logoColor=00D9FF)
-![NumPy](https://img.shields.io/badge/NumPy-0A0A2E?style=for-the-badge&logo=numpy&logoColor=00D9FF)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0A0A2E?style=for-the-badge&logo=python&logoColor=00D9FF)
-![Seaborn](https://img.shields.io/badge/Seaborn-0A0A2E?style=for-the-badge&logo=python&logoColor=00D9FF)
-![Power BI](https://img.shields.io/badge/Power_BI-0A0A2E?style=for-the-badge&logo=powerbi&logoColor=00D9FF)
-![Tableau](https://img.shields.io/badge/Tableau-0A0A2E?style=for-the-badge&logo=tableau&logoColor=00D9FF)
-
-**Tools & Platforms**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-0A0A2E?style=for-the-badge&logo=jupyter&logoColor=00D9FF)
-![VS Code](https://img.shields.io/badge/VS_Code-0A0A2E?style=for-the-badge&logo=visualstudiocode&logoColor=00D9FF)
-![Git](https://img.shields.io/badge/Git-0A0A2E?style=for-the-badge&logo=git&logoColor=00D9FF)
-![GitHub](https://img.shields.io/badge/GitHub-0A0A2E?style=for-the-badge&logo=github&logoColor=00D9FF)
-![Google Colab](https://img.shields.io/badge/Colab-0A0A2E?style=for-the-badge&logo=googlecolab&logoColor=00D9FF)
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png)
 
 </div>
 
----
+<br/>
 
-### 📡 GitHub Stats
+### &nbsp;&nbsp;✦ &nbsp;Tech Arsenal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ishikakaur8072005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A2E&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishikakaur8072005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A2E&title_color=00D9FF&text_color=FFFFFF" height="165"/>
+**— Languages —**
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=C9A84C)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=C9A84C)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=C9A84C)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=C9A84C)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=C9A84C)
+
+**— Machine Learning & AI —**
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=C9A84C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=C9A84C)
+![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=C9A84C)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=C9A84C)
+
+**— Data & Visualization —**
+
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=C9A84C)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=C9A84C)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=C9A84C)
+![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=python&logoColor=C9A84C)
+![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=C9A84C)
+![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=C9A84C)
+
+**— Tools & Environment —**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=C9A84C)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=C9A84C)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=C9A84C)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=C9A84C)
+![Google Colab](https://img.shields.io/badge/Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=C9A84C)
 
 </div>
 
+<br/>
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ishikakaur8072005&theme=tokyonight&hide_border=true&background=0A0A2E&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png)
 
 </div>
 
----
+<br/>
 
-### 🌠 Currently Exploring
-
-```
-🔭 Deep Learning & Neural Networks
-🌱 Natural Language Processing (NLP)
-📚 Advanced SQL & Database Optimization
-⚡ Building end-to-end ML pipelines
-```
-
----
-
-### 📬 Let's Connect
+### &nbsp;&nbsp;✦ &nbsp;GitHub Intelligence
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A2E?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://linkedin.com/in/ishika-k-536546285)
-[![Twitter](https://img.shields.io/badge/Twitter%2FX-0A0A2E?style=for-the-badge&logo=x&logoColor=00D9FF)](https://x.com/Ishika__k)
-[![GitHub](https://img.shields.io/badge/GitHub-0A0A2E?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/Ishikakaur8072005)
+<img src="https://github-readme-stats.vercel.app/api?username=Ishikakaur8072005&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C9A84C&icon_color=C9A84C&text_color=FFFFFF&ring_color=C9A84C" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishikakaur8072005&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C9A84C&text_color=FFFFFF" height="170"/>
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ishikakaur8072005&hide_border=true&background=0D0D0D&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=FFFFFF&dates=888888&sideNums=FFFFFF&currStreakNum=C9A84C)](https://git.io/streak-stats)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ishikakaur8072005.Ishikakaur8072005&left_color=0A0A2E&right_color=00D9FF)
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png)
 
-*"Data is the new oil — and I'm here to refine it."* 🛸
+</div>
+
+<br/>
+
+### &nbsp;&nbsp;✦ &nbsp;Currently Exploring
+
+<div align="center">
+
+| &nbsp; | Focus Area |
+|--------|-----------|
+| 🔭 | Deep Learning & Neural Networks |
+| 🌱 | Natural Language Processing (NLP) |
+| 📐 | Advanced SQL & Database Optimization |
+| ⚙️ | End-to-end ML Pipelines |
+| 🤖 | Generative AI & LLMs |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png)
+
+</div>
+
+<br/>
+
+### &nbsp;&nbsp;✦ &nbsp;Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=C9A84C)](https://linkedin.com/in/ishika-k-536546285)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=C9A84C)](https://x.com/Ishika__k)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=C9A84C)](https://github.com/Ishikakaur8072005)
+
+<br/><br/>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ishikakaur8072005.Ishikakaur8072005&left_color=000000&right_color=C9A84C&left_text=Profile%20Views)
+
+<br/><br/>
+
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png)
+
+<br/>
+
+*✦ &nbsp; Refining data into intelligence, one model at a time. &nbsp; ✦*
+
+<br/>
 
 </div>

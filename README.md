@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Animated Name Banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=4000&pause=1500&color=C9A84C&center=true&vCenter=true&width=800&height=80&lines=Ishika+Kaur)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=400&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+ML+Enthusiast+%7C+AI+Explorer;Turning+raw+data+into+refined+intelligence.;Python+%C2%B7+Machine+Learning+%C2%B7+Deep+Learning)](https://git.io/typing-svg)
@@ -27,7 +26,7 @@ class Ishika:
     focus       =  ["Machine Learning", "Deep Learning", "NLP"]
     tools       =  ["Pandas", "TensorFlow", "Scikit-learn", "Power BI"]
     currently   =  "Building intelligent systems with data 🤖"
-    goal        =  "Refine data into decisions that matter ✦"
+    status      =  "Still building. Always learning. Always growing ✦"
 ```
 
 <br clear="right"/>
@@ -116,13 +115,13 @@ class Ishika:
 
 <div align="center">
 
-| &nbsp; | Focus Area |
-|--------|-----------|
-| 🔭 | Deep Learning & Neural Networks |
-| 🌱 | Natural Language Processing (NLP) |
-| 📐 | Advanced SQL & Database Optimization |
-| ⚙️ | End-to-end ML Pipelines |
-| 🤖 | Generative AI & LLMs |
+| &nbsp; | Focus Area | Status |
+|--------|-----------|--------|
+| 🧠 | Deep Learning & Neural Networks | `In Progress` |
+| 💬 | Natural Language Processing (NLP) | `In Progress` |
+| 🤖 | Generative AI & LLMs | `Exploring` |
+| 📐 | Advanced SQL & Database Optimization | `In Progress` |
+| ⚡ | End-to-end ML Pipelines | `Building` |
 
 </div>
 
@@ -145,6 +144,8 @@ class Ishika:
 [![Twitter](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=C9A84C)](https://x.com/Ishika__k)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=C9A84C)](https://github.com/Ishikakaur8072005)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=C9A84C)](https://Ishikakaur8072005.github.io)
 
 <br/><br/>
 
